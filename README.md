@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Challenge Avanti
 
 Um Layout feito para um desafio prático, construido utilizando **React**, **Vite**, e **Tailwind CSS**.
 
