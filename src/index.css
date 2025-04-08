@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+@import "tailwindcss";
+
+.font-nunito {
+  font-family: "Nunito", sans-serif;
+}
+
+.font-nunito-sans {
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.tracking {
+  letter-spacing: 0.5em;
+}
+
+.container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.splide .splide__pagination__page .custom-page {
+  /* Specify the pagination color */
+  opacity: 0.4; /* Increase the opacity of inactive pagination */
+}
+
+.splide .splide__pagination__page.is-active {
+  background: #005cff; /* Specify the active pagination color */
+  opacity: 1; /* Disable transparency of the active pagination */
+}
+button {
+  cursor: pointer;
+}

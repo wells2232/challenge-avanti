@@ -1,0 +1,88 @@
+const products = [
+  {
+    id: 1,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 2,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 3,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 4,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 5,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 6,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 7,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 8,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 9,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 10,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 11,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+  {
+    id: 12,
+    name: "<h3> Lorem Ipsum Dolor Sit Amet Consectetuer Adpiscing Elit </h3>",
+    price: 100.0,
+    priceOffer: 79.9,
+    imageUrl: "/images/product.png",
+  },
+];
+
+export default products;
