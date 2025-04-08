@@ -1,5 +1,8 @@
+// @ts-ignore-error
 import { Splide, SplideSlide, SplideTrack } from "@splidejs/react-splide";
+// @ts-ignore-error
 import "@splidejs/react-splide/css";
+
 import ProductCard from "./utils/ProductCard";
 import products from "../data/products";
 import { ArrowCircleLeft, ArrowCircleRight } from "@phosphor-icons/react";

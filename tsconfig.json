@@ -1,4 +1,15 @@
 {
+  "compilerOptions": {
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "baseUrl": ".",
+    "paths": {
+      "@splidejs/react-splide": [
+        "node_modules/@splidejs/react-splide/dist/types"
+      ]
+    }
+  },
+
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
